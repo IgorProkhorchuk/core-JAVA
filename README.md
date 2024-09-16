@@ -1,6 +1,6 @@
 # JAVA
-### 1. **Introduction to Java**  [Link text](https://example.com)
-   - [What is Java?](1-Introduction_to_Java/WhatisJava.md)
+### 1. **Introduction to Java**
+   - [What is Java?](1-Introduction_to_Java/WhatisJava.md) 
    - [History and evolution of Java](1-Introduction_to_Java/HistoryandevolutionofJava.md)
    - [Features of Java](1-Introduction_to_Java/FeaturesofJava.md)
    - [JVM, JRE, and JDK: Differences and roles](1-Introduction_to_Java/jvmjrejdk.md)
@@ -16,9 +16,9 @@
    - [Input and Output](2-Basic_syntax_and_structure/inputOutput.md) (Scanner class, System.out.println)
 
 ### 3. **Control Flow Statements**
-   - Conditional Statements (if, if-else, switch)
-   - Loops (for, while, do-while)
-   - Break and Continue
+   - [Conditional Statements](3-control_flow_statements/conditionalStatements.md) (if, if-else, switch)
+   - [Loops](3-control_flow_statements/loops.md) (for, while, do-while)
+   - [Break and Continue](3-control_flow_statements/breakAndContinue.md)
 
 ### 4. **Object-Oriented Programming (OOP) in Java**
    - Classes and Objects
