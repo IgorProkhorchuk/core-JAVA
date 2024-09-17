@@ -36,12 +36,11 @@
    - [Access Modifiers](4-OOP/accessModifiers.md) (private, public, protected, default)
 
 ### 5. **Exception Handling**
-   - What is an Exception?
-   - Types of Exceptions (Checked and Unchecked)
-   - Try-catch blocks
-   - Throw, throws
-   - Finally block
-   - Custom exceptions
+   - [What is an Exception?](5-exception_handling/whatIsAnException.md)
+   - [Types of Exceptions](5-exception_handling/typesOfExceptions.md) (Checked and Unchecked)
+   - [Try-catch blocks](5-exception_handling/tryCatch.md)
+   - [Throw, throws](5-exception_handling/throwThrows.md)
+   - [Custom exceptions](5-exception_handling/customExceptions.md)
 
 ### 6. **Java Collections Framework**
    - Overview of Collections
