@@ -43,10 +43,14 @@
    - [Custom exceptions](5-exception_handling/customExceptions.md)
 
 ### 6. **Java Collections Framework**
-   - Overview of Collections
-   - List, Set, Map (ArrayList, LinkedList, HashSet, TreeSet, HashMap, TreeMap)
-   - Iterators
-   - Comparable and Comparator interfaces
+   - [Overview of Collections](6-Java_Collections_Framework/owerviewOfCollections.md)
+   - List, Set, Map
+       - [List](6-Java_Collections_Framework/list.md) (ArrayList, LinkedList)
+       - [Set](6-Java_Collections_Framework/set.md) (HashSet, TreeSet, LinkedHashSet)
+           - [ConcurrentSkipListSet](6-Java_Collections_Framework/concurrentSkipListSet.md)
+       - [Map]() (HashMap, TreeMap LinkedHashMap, Hashtable, ConcurrentHashMap)
+   - [Iterators](6-Java_Collections_Framework/iterators.md)
+   - [Comparable and Comparator interfaces](6-Java_Collections_Framework/comparableComparator.md)
 
 ### 7. **Generics**
    - Introduction to Generics
