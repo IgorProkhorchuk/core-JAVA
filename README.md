@@ -9,11 +9,14 @@
    - [Structure of a Java Program](2-Basic_syntax_and_structure/StructureofaJavaProgram.md)
    - [Java Keywords](2-Basic_syntax_and_structure/javaKeywords.md)
    - [Data types: Primitive (int, char, boolean, etc.) and Non-primitive (String, Arrays)](2-Basic_syntax_and_structure/dataTypes.md)
+       - Strings. Work with strings
+       - [One-dimensional and multidimensional arrays](2-Basic_syntax_and_structure/oneDimentionalMultidimentionalArrays.md)
    - [Variables and Constants](2-Basic_syntax_and_structure/variablesAndConstants.md)
    - [Comments in Java](2-Basic_syntax_and_structure/commentsInJava.md)
    - [Javadoc](2-Basic_syntax_and_structure/javadoc.md)
    - [Operators]() (arithmetic, relational, logical, etc.)
-   - [Input and Output](2-Basic_syntax_and_structure/inputOutput.md) (Scanner class, System.out.println)
+   - [Input](2-Basic_syntax_and_structure/input.md) (Scanner, BufferedReader, DataInputStream)
+   - [Output]() System.out.println(2-Basic_syntax_and_structure/output.md) 
 
 ### 3. **Control Flow Statements**
    - [Conditional Statements](3-control_flow_statements/conditionalStatements.md) (if, if-else, switch)
