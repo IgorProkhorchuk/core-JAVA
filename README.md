@@ -53,9 +53,9 @@
    - [Comparable and Comparator interfaces](6-Java_Collections_Framework/comparableComparator.md)
 
 ### 7. **Generics**
-   - Introduction to Generics
-   - Generic Methods
-   - Bounded Type Parameters
+   - [Introduction to Generics](7-Generics/introductionToGenerics.md)
+   - [Generic Methods](7-Generics/genericMethods.md)
+   - [Bounded Type Parameters](7-Generics/boundedTypeParameters.md)
 
 ### 8. **File Handling in Java**
    - File Class
