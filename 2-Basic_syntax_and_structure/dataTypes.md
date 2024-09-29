@@ -88,6 +88,41 @@ Used for storing logical values (true or false).
 
 ---
 
+### Primitive Data Types vs. Wrapper Classes
+Each primitive type in Java has a corresponding wrapper class in the `java.lang` package:
+- `byte` → `Byte`
+- `short` → `Short`
+- `int` → `Integer`
+- `long` → `Long`
+- `float` → `Float`
+- `double` → `Double`
+- `char` → `Character`
+- `boolean` → `Boolean`
+
+Wrapper classes allow primitives to be used as objects. This is useful in cases such as using a primitive value in collections (e.g., `ArrayList<Integer>` rather than `ArrayList<int>`). Wrapper classes also provide methods for converting between types, parsing, and more.
+
+For example:
+```java
+int a = 5;
+Integer aObj = Integer.valueOf(a);  // Convert int to Integer object
+int aPrimitive = aObj.intValue();   // Convert Integer object to int
+```
+
+### Default Values of Primitives
+When primitive data types are used as class fields (instance variables), they are initialized with the following default values:
+- `byte`, `short`, `int`, `long`: `0`
+- `float`, `double`: `0.0`
+- `char`: `'\u0000'` (null character)
+- `boolean`: `false`
+
+However, **local variables** (those defined inside methods) are not automatically initialized and must be assigned a value before use.
+
+
+### Conclusion
+Primitive data types are fundamental to efficient programming in Java. They are used extensively in both simple and complex data manipulations. Understanding how and when to use them, along with their ranges and memory sizes, helps ensure optimal performance and efficient memory usage in Java applications.
+
+---
+
 ## 2. Non-Primitive (Reference) Data Types in Java
 
 **Non-primitive data types**, also known as **reference types**, are not predefined by the language (unlike primitive types). Instead, they are created by the programmer. Non-primitive data types **reference** objects or arrays, and the variable stores a reference to a memory location rather than the actual data.
