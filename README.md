@@ -8,6 +8,7 @@
 ### 2. **Basic Syntax and Structure**
    - [Structure of a Java Program](2-Basic_syntax_and_structure/StructureofaJavaProgram.md)
    - [Java Keywords](2-Basic_syntax_and_structure/javaKeywords.md)
+       - [static](2-Basic_syntax_and_structure/keywords/static.md)
    - [Data types: Primitive (int, char, boolean, etc.) and Non-primitive (String, Arrays)](2-Basic_syntax_and_structure/dataTypes.md)
        - Strings. Work with strings
        - [One-dimensional and multidimensional arrays](2-Basic_syntax_and_structure/oneDimentionalMultidimentionalArrays.md)
@@ -61,10 +62,10 @@
    - [Bounded Type Parameters](7-Generics/boundedTypeParameters.md)
 
 ### 8. **File Handling in Java**
-   - File Class
-   - Reading and Writing to Files
-   - BufferedReader, BufferedWriter
-   - Serialization and Deserialization
+   - [File Class](8-file_Handling/fileClass.md)
+   - [Reading and Writing to Files](8-file_Handling/readinWritingToFiles.md)
+   - [BufferedReader, BufferedWriter](8-file_Handling/bufferedReaderBufferedWriter.md)
+   - [Serialization and Deserialization]()
 
 ### 9. **Multithreading**
    - Introduction to Threads
