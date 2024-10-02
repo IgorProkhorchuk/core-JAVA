@@ -65,10 +65,10 @@
    - [File Class](8-file_Handling/fileClass.md)
    - [Reading and Writing to Files](8-file_Handling/readinWritingToFiles.md)
    - [BufferedReader, BufferedWriter](8-file_Handling/bufferedReaderBufferedWriter.md)
-   - [Serialization and Deserialization]()
+   - [Serialization and Deserialization](8-file_Handling/serializationDeserialization.md)
 
 ### 9. **Multithreading**
-   - Introduction to Threads
+   - [Introduction to Threads](9-Multithreading/introductionToThreads.md)
    - Creating Threads (Runnable Interface, Thread class)
    - Thread Lifecycle
    - Synchronization and Inter-thread Communication
