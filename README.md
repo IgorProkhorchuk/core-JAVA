@@ -69,10 +69,10 @@
 
 ### 9. **Multithreading**
    - [Introduction to Threads](9-Multithreading/introductionToThreads.md)
-   - Creating Threads (Runnable Interface, Thread class)
-   - Thread Lifecycle
-   - Synchronization and Inter-thread Communication
-   - Thread Priority
+   - [Creating Threads (Runnable Interface, Thread class)](9-Multithreading/creatingThreads.md)
+   - [Thread Lifecycle](9-Multithreading/threadLifecycle.md)
+   - [Synchronization and Inter-thread Communication](9-Multithreading/syncInterThreadCommunication.md)
+   - [Thread Priority](9-Multithreading/threadPriority.md)
 
 ### 10. **Java 8 Features (and beyond)**
    - Lambda Expressions
