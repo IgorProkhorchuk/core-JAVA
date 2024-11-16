@@ -236,6 +236,10 @@ System.out.println(message);
 
 ---
 
+## Special data type `ENUM` - [link](data_types/enum.md)
+
+An enum in Java is a special data type used to define a collection of constants. It provides a way to define a set of related values that are immutable and type-safe. Enums are particularly useful when you need to represent fixed sets of constants, such as days of the week, colors, or directions.
+
 ### Conclusion
 
 In Java, understanding the difference between primitive and non-primitive data types is crucial for memory management, performance optimization, and code design. Primitive types provide simplicity and speed, whereas non-primitive types offer flexibility, reusability, and complex behavior. Together, they form the foundation of Java's strongly-typed system.
