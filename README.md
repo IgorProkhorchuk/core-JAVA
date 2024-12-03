@@ -56,6 +56,78 @@
    - [Iterators](6-Java_Collections_Framework/iterators.md)
    - [Comparable and Comparator interfaces](6-Java_Collections_Framework/comparableComparator.md)
 
+   #### Core Collections
+      1. **List Interfaces and Implementations**
+         - [ArrayList](6-Java_Collections_Framework/list.md)
+         - LinkedList
+         - Vector
+         - Stack
+         - CopyOnWriteArrayList
+         - CopyOnWriteArraySet
+
+      2. **Set Interfaces and Implementations**
+         - HashSet
+         - LinkedHashSet
+         - TreeSet
+         - EnumSet
+         - ConcurrentSkipListSet
+         - CopyOnWriteArraySet
+
+      3. **Queue Interfaces and Implementations**
+         - PriorityQueue
+         - ArrayDeque
+         - LinkedList (also a Queue)
+         - ConcurrentLinkedQueue
+         - ConcurrentLinkedDeque
+         - BlockingQueue implementations:
+         * ArrayBlockingQueue
+         * LinkedBlockingQueue
+         * PriorityBlockingQueue
+         * DelayQueue
+         * SynchronousQueue
+         * LinkedTransferQueue
+
+      4. **Map Interfaces and Implementations**
+         - HashMap
+         - LinkedHashMap
+         - TreeMap
+         - WeakHashMap
+         - IdentityHashMap
+         - EnumMap
+         - Hashtable
+         - ConcurrentHashMap
+         - ConcurrentSkipListMap
+
+   #### Specialized Collections
+      1. **Unmodifiable/Immutable Collections (Java 9+)**
+         - List.of()
+         - Set.of()
+         - Map.of()
+
+      2. **Abstract Collection Classes**
+         - AbstractList
+         - AbstractSet
+         - AbstractQueue
+         - AbstractMap
+
+      3. **Utility Collections**
+         - Collections.singleton()
+         - Collections.singletonList()
+         - Collections.emptyList()
+         - Collections.unmodifiableList()
+
+   #### Additional Collections
+      1. **Guava Collections** (from Google Guava library)
+         - ImmutableList
+         - ImmutableSet
+         - ImmutableMap
+         - Multiset
+         - Multimap
+         - BiMap
+
+      2. **Apache Commons Collections**
+         - Various extended collection types
+
 ### 7. **Generics**
    - [Introduction to Generics](7-Generics/introductionToGenerics.md)
    - [Generic Methods](7-Generics/genericMethods.md)
