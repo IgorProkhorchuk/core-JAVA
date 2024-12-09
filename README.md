@@ -173,6 +173,7 @@
    - Maven and Gradle (Dependency Management)
        - [Fat Jar (Uber Jar)](14-01-Maven/fatJar-UberJar.md)
    - Spring Framework (Introduction)
+       - [Spring Security Filters](14-1-springBoot/securityFilters.md)
    - Hibernate (Introduction)
 
 ### 15. **Best Practices and Design Patterns**
