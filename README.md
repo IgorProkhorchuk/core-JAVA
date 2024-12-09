@@ -171,6 +171,7 @@
 
 ### 14. **Popular Libraries and Frameworks**
    - Maven and Gradle (Dependency Management)
+       - [Fat Jar (Uber Jar)](14-01-Maven/fatJar-UberJar.md)
    - Spring Framework (Introduction)
    - Hibernate (Introduction)
 
