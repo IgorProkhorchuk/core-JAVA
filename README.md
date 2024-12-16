@@ -147,7 +147,7 @@
    - [Thread Priority](9-Multithreading/threadPriority.md)
 
 ### 10. **Java 8 Features (and beyond)**
-   - Lambda Expressions
+   - [Lambda Expressions](10-Java_8_features_and_beyond/lambdaExpressions.md)
    - Stream API
    - Functional Interfaces
    - Default and Static Methods in Interfaces
