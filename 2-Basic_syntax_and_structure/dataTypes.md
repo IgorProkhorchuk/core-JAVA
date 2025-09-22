@@ -220,19 +220,17 @@ System.out.println(message);
 
 ### Differences Between Primitive and Non-Primitive Data Types
 
-| Feature                        | Primitive Data Types                                     | Non-Primitive Data Types                         |
-|---------------------------------|---------------------------------------------------------|--------------------------------------------------|
-| **Definition**                  | Basic types predefined by Java.                         | Complex types defined by the programmer.         |
-| **Data Storage**                | Stores the actual value.                                | Stores a reference (memory address).             |
-| **Size**                        | Fixed size (e.g., `int` is 4 bytes).                    | Size depends on the object or data structure.    |
-| **Default Value**               | Defined defaults (e.g., 0 for `int`, `false` for `boolean`).| Null by default.                                |
-| **Example**                     | `int
-
-`, `char`, `float`                                  | `String`, `Array`, `Object`, `Class`             |
-| **Nullability**                 | Cannot be `null`.                                       | Can be `null`.                                   |
-| **Methods**                     | No built-in methods.                                    | Can have methods (e.g., `String.length()`).      |
-| **Memory Allocation**           | Memory is allocated directly to store the value.        | Memory is allocated dynamically for objects.     |
-| **Wrapper Classes**             | Wrapper classes available (e.g., `Integer`, `Boolean`). | All non-primitive types are classes or objects.  |
+| Feature | Primitive Data Types | Non-Primitive Data Types |
+|---------|----------------------|--------------------------|
+| **Definition** | Basic types predefined by Java. | Complex types defined by the programmer. |
+| **Data Storage** | Stores the actual value. | Stores a reference (memory address). |
+| **Size** | Fixed size (e.g., `int` is 4 bytes). | Size depends on the object or data structure. |
+| **Default Value** | Defined defaults (e.g., 0 for `int`, `false` for `boolean`). | Null by default. |
+| **Example** | `int`, `char`, `float` | `String`, `Array`, `Object`, `Class` |
+| **Nullability** | Cannot be `null`. | Can be `null`. |
+| **Methods** | No built-in methods. | Can have methods (e.g., `String.length()`). |
+| **Memory Allocation** | Memory is allocated directly to store the value. | Memory is allocated dynamically for objects. |
+| **Wrapper Classes** | Wrapper classes available (e.g., `Integer`, `Boolean`). | All non-primitive types are classes or objects. |
 
 ---
 
