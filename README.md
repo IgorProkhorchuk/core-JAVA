@@ -135,6 +135,8 @@
 
 ### 8. **File Handling in Java**
    - [File Class](8-file_Handling/fileClass.md)
+   - [Path Class](8-file_Handling/pathClass.md)
+   - [Files Class](8-file_Handling/filesClass.md)
    - [Reading and Writing to Files](8-file_Handling/readinWritingToFiles.md)
    - [BufferedReader, BufferedWriter](8-file_Handling/bufferedReaderBufferedWriter.md)
    - [Serialization and Deserialization](8-file_Handling/serializationDeserialization.md)
